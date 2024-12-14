@@ -65,9 +65,9 @@ def check_draw(board):
 
 def play_tic_tac_toe():
     board = [
-        ["", "", ""],
-        ["", "", ""],
-        ["", "", ""]
+        [" ", " ", " "],
+        [" ", " ", " "],
+        [" ", " ", " "]
 ]
     
 current_player = "X"
